@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
+    },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "Vinay",
+      "age": 25,
+      "place": "Pune",
+      "batch_name": "WEB-14",
+      "profession": "Backend",
+      "id": 3
+    },
+    {
+      "name": "rajesh",
+      "age": 25,
+      "place": "mumbai",
+      "batch_name": "WEB-13",
+      "profession": "Frontend",
+      "id": 4
+    },
+    {
+      "name": "Rahul",
+      "age": 30,
+      "place": "Nagpur",
+      "batch_name": "WEB-13",
+      "profession": "FSD",
+      "id": 5
+    },
+    {
+      "name": "Gaurav",
+      "age": 40,
+      "place": "delhi",
+      "batch_name": "WEB-15",
+      "profession": "Backend",
+      "id": 6
+    },
+    {
+      "name": "Anand",
+      "age": 20,
+      "place": "kolkata",
+      "batch_name": "WEB-15",
+      "profession": "FSD",
+      "id": 7
+    },
+    {
+      "name": "Ankit ",
+      "age": 50,
+      "place": "chennai",
+      "batch_name": "WEB-13",
+      "profession": "Frontend",
+      "id": 8
+    },
+    {
+      "name": "Dev",
+      "age": 19,
+      "place": "Patana",
+      "batch_name": "WEB-14",
+      "profession": "Student",
+      "id": 9
+    }
+  ]
+}
